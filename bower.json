@@ -1,0 +1,30 @@
+{
+  "name": "piklane-partner",
+  "description": "Piklane partner is the first build for piklane partner web app. This is a test build in react",
+  "main": "webpack.config.js",
+  "authors": [
+    "Sumant Dey"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "React",
+    "Piklane",
+    "Redux",
+    "Partner"
+  ],
+  "moduleType": [],
+  "homepage": "https://seller.piklane.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.2"
+  }
+}
